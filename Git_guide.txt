@@ -1,4 +1,7 @@
 
+Clone:
+SSH:  git clone git@github.com:xindu255/study_summary
+HTTP: git clone https://github.com/xindu255/study_summary 
 
 
 Remote:
